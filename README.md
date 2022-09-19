@@ -51,6 +51,11 @@ The second step was to alter the rolling short and long windows of the SMAs. Ini
 
 ![SVM_model_step2](https://user-images.githubusercontent.com/107497500/190940285-433d5a1a-e2f2-4db1-8dd9-7f3efa0e4039.png)
 
+The final model generated was a Random Forest model, but it performed 2% less accurate than both baseline and tuned models. Refer to the plot generated below:
+
+
+![RF_model_final](https://user-images.githubusercontent.com/107497500/190940813-21d37a9a-ec95-4df8-9095-725cc77e45d7.png)
+
 ---
 ## Contributors
 
