@@ -37,6 +37,10 @@ This program couldn't run without the CSV data:
 
 ---
 
+## Results
+
+
+---
 ## Contributors
 
 Thank you for Eric Cardena for teaching Rice's FinTech Boot Camp. He was instrumental in teaching and helping us understand this material. Thank you for Rice for preparing this curriculum and the corresponding data sets that are required to be used. 
